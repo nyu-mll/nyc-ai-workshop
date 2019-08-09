@@ -270,6 +270,12 @@ a:focus {
     margin-top: 100px;
 }
 
+#container {
+    width: 100%;
+    text-align:center;
+    font-size:0;
+}
+
 @media(min-width:767px) {
     .content-section {
         padding-top: 200px;
