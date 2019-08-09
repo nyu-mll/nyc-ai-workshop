@@ -270,7 +270,7 @@ a:focus {
     margin-top: 100px;
 }
 
-#container {
+/*#container {
     width: 100%;
     text-align:center;
     font-size:0;
@@ -280,7 +280,7 @@ a:focus {
 }
 #day2 {
     float: left;
-}
+}*/
 
 @media(min-width:767px) {
     .content-section {
