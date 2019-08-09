@@ -275,6 +275,12 @@ a:focus {
     text-align:center;
     font-size:0;
 }
+#day1 {
+    float: left;
+}
+#day2 {
+    float: left;
+}
 
 @media(min-width:767px) {
     .content-section {
