@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>Schedule</h2>
-                <p>
+                <!-- <p>
                 	<h3>Day One</h3>
                 	Coffee and snacks <br>
                 	Morning lecture: machine learning 101 <br>
@@ -25,11 +25,11 @@
                 	Guest lecture: TBA <br>
                 	Panel discussion: next steps <br>
                 	Dinner
-                </p>
+                </p> -->
 
 
                 <div class="container">
-					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" id="day1">
 						<h3>Day One</h3>
 	                	Coffee and snacks <br>
 	                	Morning lecture: machine learning 101 <br>
@@ -40,7 +40,7 @@
 	                	Guest lecture: TBA <br>
 	                	Panel discussion
 					</div>
-					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" id="day2">
 				     	<h3>Day Two</h3>
 	                	Coffee and snacks <br>
 	                	Morning lecture: topic TBA <br>
@@ -57,3 +57,28 @@
             </div>
         </div>
     </section>
+
+
+#container {
+width: 100%;
+text-align:center;
+font-size:0;
+}
+<!-- div:not(#container) {
+    text-align:left;
+}
+#day1 {
+    width: 400px;
+    border:1px solid black;
+    margin: auto;
+}
+#day2 {
+    width: 300px;
+    display:inline-block;
+    border:1px solid black;
+}
+#c {
+    width: 100px;
+    display:inline-block;
+    border:1px solid black;
+} -->
