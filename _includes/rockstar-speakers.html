@@ -16,15 +16,15 @@
 
 
 <!-- Begin Rockstar Speakers Secti -->
-<section id="rockstar-speakers" class="rockstar-speakers image-section paralla" style="background-image: url({{ site.baseurl }}/img/sections-background/{{ site.rockstarSpeakersImage }});">
+<section id="rockstar-speakers" class="rockstar-speakers image-section parallax" style="background-image: url({{ site.baseurl }}/img/sections-background/{{ site.rockstarSpeakersImage }});">
     <div class="overlay solid-overlay"></div>
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1 rockstar-speakers-list">
             <h3>Speakers</h3>
             <div class="row">
-                {% assign animationDelay = 0 %} {% for speaker in site.data.speaker %} 
-                {% assign colWidth = 12 | divided_by: forloop.length %}
-                <div class="speaker col-md-{{ colWidth }} col-xs-6 animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                {% assign animationDelay = 0 %} {% for speaker in site.data.speakers %} 
+                {% assign colWidth = 12 | divided_by: 4 %}
+                <div class="judge col-md-{{ colWidth }} col-xs-6 animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
                     <div class="flow-img img-circle speaker-img" style="background-image: url({{ site.baseurl }}/img/people/{{ speaker.thumbnailUrl }})"></div>
                     <p class="name">  
                         <a href="https://nyu-mll.github.io/nyc-ai-workshop/speakers/" target="_blank">
