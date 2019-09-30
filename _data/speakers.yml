@@ -1,3 +1,4 @@
+
 - 
   id: 3
   name: "Y-Lan"
@@ -51,7 +52,6 @@
   rockstar: true
   social: 
     - {name: "twitter", link: "http://twitter.com/functiontelechy"}
-
 - 
   id: 1
   name: "Arthur"
