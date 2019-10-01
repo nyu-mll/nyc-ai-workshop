@@ -96,10 +96,10 @@
   speakers: [5]
 -
   id: 007
-  title: "Music Information Retrieval" 
+  title: "Music Information Retrieval"
   description: ""
   subtype: presentation
-  speakers: [7]
+  speakers: [0]
 -
   id: 008
   title: "How to get into AI"
