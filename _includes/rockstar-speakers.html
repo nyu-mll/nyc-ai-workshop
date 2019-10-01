@@ -24,7 +24,7 @@
             <div class="row">
                 {% assign animationDelay = 0 %} {% for speaker in site.data.speakers %} 
                 {% assign colWidth = 12 | divided_by: 4 %}
-                <div class="judge col-md-{{ colWidth }} col-xs-6 animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                <div class="judge col-md-{{ colWidth }} col-xs-6">
                     <div class="flow-img img-circle speaker-img" style="background-image: url({{ site.baseurl }}/img/people/{{ speaker.thumbnailUrl }})"></div>
                     <p class="name">  
                         <a href="https://nyu-mll.github.io/nyc-ai-workshop/speakers/" target="_blank">
