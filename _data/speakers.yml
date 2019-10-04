@@ -41,6 +41,19 @@
   rockstar: true
   social: 
     - {name: "twitter", link: "http://twitter.com/VaroonMathur"}
+
+- 
+  id: 7
+  name: "Alfredo"
+  surname: "Canziani"
+  company: "New York University"
+  #title: "Head of Android/Java Unit"
+  bio: "Alfredo Canziani is a Post-Doctoral Deep Learning Research Scientist and Lecturer at NYU Courant Institute of Mathematical Sciences, under the supervision of professors KyungHyun Cho and Yann LeCun. His research mainly focusses on Machine Learning for Autonomous Driving. He has been exploring deep policy networks actions uncertainty estimation and failure detection, and long term planning based on latent forward models, which nicely deal with the stochasticity and multimodality of the surrounding environment. Alfredo obtained both his Bachelor (2009) and Master (2011) degrees in Electrical Engineering cum laude at Trieste University, his MSc (2012) at Cranfield University, and his PhD (2017) at Purdue University. In his spare time, Alfredo is a professional musician, dancer, and cook, and keeps expanding his free online video course on Deep Learning and PyTorch."
+  thumbnailUrl: alfredo.jpeg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/alfcnz"}
+
 - 
   id: 0
   name: "Brian"

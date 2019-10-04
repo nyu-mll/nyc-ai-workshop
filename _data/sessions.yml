@@ -36,10 +36,10 @@
   description: ""
 -
   id: 201
-  title: "Machine learning basics"
+  title: "Machine learning basics: Perceptron"
   place: ""
-  service: true
-  description: "Lecture"
+  description: ""
+  speakers: [7]
 -
   id: 202
   title: "Lab Session"
@@ -48,10 +48,10 @@
   description: "Time to build cool stuffs!"
 -
   id: 203
-  title: "Lecture (Topic: TBA)"
+  title: "Deep Neural Networks: Multi-layer Perceptrons"
   place: ""
-  service: true
-  description: "Lecture"
+  description: ""
+  speakers: [7]
 -
   id: 503
   title: "Lunch"
