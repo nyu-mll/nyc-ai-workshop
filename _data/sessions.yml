@@ -59,14 +59,14 @@
   service: true
 -
   id: 001
-  title: "Learning from interactions"
+  title: "Learning from interactions (Room 110)"
   description: ""
   subtype: presentation
   speakers: [4]
   
 -
   id: 002
-  title: "Ethics and AI: Know what you're building and why"
+  title: "Ethics and AI: Know what you're building and why (Room 150)"
   description: ""
   subtype: presentation
   speakers: [6]
@@ -90,13 +90,13 @@
   speakers: []
 -
   id: 006
-  title: "Producing and Perceiving Charismatic Speech"
+  title: "Producing and Perceiving Charismatic Speech (Room 150)"
   description: ""
   subtype: presentation
   speakers: [5]
 -
   id: 007
-  title: "Music Information Retrieval"
+  title: "Music Information Retrieval (Room 110)"
   description: ""
   subtype: presentation
   speakers: [0]
