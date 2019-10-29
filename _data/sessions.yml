@@ -46,6 +46,7 @@
   place: ""
   service: true
   description: "Time to build cool stuffs!"
+  speakers: [7]
 -
   id: 203
   title: "Deep Neural Networks: Multi-layer Perceptrons"
