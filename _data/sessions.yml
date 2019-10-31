@@ -45,7 +45,7 @@
   title: "Lab Session"
   place: ""
   service: true
-  description: "Time to build cool stuffs!"
+  description: ""
   speakers: [7]
 -
   id: 203
